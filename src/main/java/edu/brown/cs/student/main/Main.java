@@ -50,7 +50,7 @@ public final class Main {
     }
 
     // TODO: Add your REPL here!
-
+    System.out.println("Your horoscope says: don't go outside!");
   }
 
   private void runSparkServer(int port) {
